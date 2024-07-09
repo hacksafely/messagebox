@@ -41,3 +41,6 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Acknowledgements
 This project uses the windows crate to interface with the Windows API. Thanks to the authors and contributors of this crate.
+
+### Note : Added MessageBoxW in the codebase need to change the Readme file.
+
